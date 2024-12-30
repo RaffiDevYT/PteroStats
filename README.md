@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="PteroStats Banner" src="https://cdn.discordapp.com/attachments/626755594526916629/978478722489393153/20220524_090325.png" width="400"/>
+<img alt="PteroStats Banner" src="https://media.discordapp.net/attachments/1057563720068382721/1170351859513434132/banner.png?ex=677346db&is=6771f55b&hm=38112752d2d3d8bcbc8f19b6df65e53014e5903818ba9cdd9cc48e939e7e342e&" width="400"/>
 
 ## Language / Bahasa
 [[English]](https://github.com/RaffiDevYT/PteroStats/blob/main/README.md) | [[Indonesia]](https://github.com/RaffiDevYT/PteroStats/blob/main/Indo.md)
@@ -9,12 +9,6 @@
 
 ## Introduction
 PteroStats is a bot designed to check Pterodactyl Panel and Nodes status and post it to your discord server
-
-## Example
-- Test Panel
-
-    <img alt="Example" src="https://cdn.discordapp.com/attachments/988796533430448148/991520721467613224/example.gif" width="200"/>
-
 
 ## Installation
 1. [Getting apikey from pterodactyl](#getting-apikey-from-pterodactyl)
