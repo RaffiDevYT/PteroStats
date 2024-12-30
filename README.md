@@ -16,7 +16,6 @@ PteroStats is a bot designed to check Pterodactyl Panel and Nodes status and pos
 3. [Inviting Discord Bot](#inviting-discord-bot)
 4. [Getting Channel ID](#getting-channel-id)
 5. [Starting bot](#starting-bot)
-
 - [Using Custom Emoji](#using-custom-emoji)
 - [Blacklist Nodes](#blacklist-nodes)
 
