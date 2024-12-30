@@ -106,12 +106,10 @@ You can add more than one node in the blacklist
 
 ## The node is online but the embed is read as offline
 
-If you having this issue, you can enable `log_error` on the config file and report it to our discord server at [Support Server](https://discord.gg/zv6maQRah3)
+If you having this issue, you can enable `log_error` on the config file and report it to our discord server at [Support Server](https://discord.gg/DWXS6tuhcj)
 
 ## Links
 
-- [PteroStats DiscordJS v13](https://github.com/RaffiDevYT/PteroStats/tree/3d0512c3323ecf079101104c7ecf3c94d265e298)
-- [PteroStats DiscordJS v12](https://github.com/RaffiDevYT/PteroStats/tree/bcfa266be64dda11955f0bf9732da086bcea522c)
 - [Pterodactyl Panel](https://pterodactyl.io)
 - [Pterodactyl Api Documentation](https://dashflo.net/docs/api/pterodactyl/v1/)
 - [Pterodactyl Discord Server](https://discord.gg/pterodactyl)
